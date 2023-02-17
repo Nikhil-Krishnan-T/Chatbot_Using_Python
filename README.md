@@ -2,7 +2,7 @@
 
 A Chatbot is an application that interacts with users like a human. Chatbots are typically used to resolve the most common queries that a business receives from its customers daily. 
 
-if you want to know the CRN of your bank account, a chatbot will assist you by asking for your bank details, then it will give you your CRN. 
+if I want to know the CRN of my bank account, a chatbot will assist me by asking for my bank details, then it will give me my CRN. 
 
 
 
